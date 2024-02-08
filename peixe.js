@@ -43,4 +43,5 @@ function update() {
 
     tuba.x = this.input.x;
     tuba.y = this.input.y;
+    
 }
